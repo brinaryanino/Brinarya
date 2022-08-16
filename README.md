@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brinarya
 - 👀 I’m interested in programming code
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C, HTML, and CSS
 - 📫 How to reach me contact me at my Instagram @brnryanino
 
 <!---
